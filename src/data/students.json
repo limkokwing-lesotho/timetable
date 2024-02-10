@@ -1,0 +1,1628 @@
+{
+	"BABJY2S2": [
+		{
+			"course": "Web Technology",
+			"lecturer": "Macheli",
+			"venue": "MM3",
+			"time": "Thursday (14:30 - 16:30)",
+			"timeIndex": "15"
+		},
+	],
+	"BAHRY2S2(A)": [
+		{
+			"course": "Web Design for Business",
+			"lecturer": "Makhaola",
+			"venue": "MM6",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+	],
+	"BAHRY2S2(B)": [
+		{
+			"course": "Web Design for Business",
+			"lecturer": "Makhaola",
+			"venue": "MM5",
+			"time": "Friday (12:30 - 14:30)",
+			"timeIndex": "18"
+		},
+	],
+	"BAHRY3S2(A)": [
+		{
+			"course": "Information Systems for Managers",
+			"lecturer": "Ranyali",
+			"venue": "Hall 6",
+			"time": "Friday (12:30 - 14:30)",
+			"timeIndex": "18"
+		},
+	],
+	"BAHRY3S2(B)": [
+		{
+			"course": "Information Systems for Managers",
+			"lecturer": "Ranyali",
+			"venue": "Hall 6",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+	],
+	"BAPCY3S2": [
+		{
+			"course": "Web Technology",
+			"lecturer": "Makhaola",
+			"venue": "MM6",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+	],
+	"BATMY2S2(A)": [
+		{
+			"course": "Web Design for Business",
+			"lecturer": "Mofolo",
+			"venue": "MM2",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+	],
+	"BATMY2S2(B)": [
+		{
+			"course": "Web Design for Business",
+			"lecturer": "Mofolo",
+			"venue": "MM6",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+	],
+	"BBENY2S2": [
+		{
+			"course": "Web Design for Business",
+			"lecturer": "Mokhamo",
+			"venue": "MM3",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+	],
+	"BBENY3S2": [
+		{
+			"course": "E-Commerce",
+			"lecturer": "Ntho",
+			"venue": "MM3",
+			"time": "Tuesday (14:30 - 16:30)",
+			"timeIndex": "7"
+		},
+	],
+	"BBIBY2S2(A)": [
+		{
+			"course": "Web Design for Business",
+			"lecturer": "Hlabeli",
+			"venue": "MM1",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+	],
+	"BBIBY2S2(B)": [
+		{
+			"course": "Web Design for Business",
+			"lecturer": "Hlabeli",
+			"venue": "MM4",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+	],
+	"BSCBITY1S2(A)": [
+		{
+			"course": "Calculus 1(TUT)",
+			"lecturer": "Mpotla",
+			"venue": "Room 1",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Business Accounting",
+			"lecturer": "Matebesi",
+			"venue": "Hall 2",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Ntho",
+			"venue": "Net Lab",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Imperical Programming",
+			"lecturer": "Morutwa",
+			"venue": "MM6",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Calculus 1",
+			"lecturer": "Maseli",
+			"venue": "Room 1",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Principles of Marketing",
+			"lecturer": "T.Makhaola",
+			"venue": "Hall 3",
+			"time": "Tuesday (14:30 - 16:30)",
+			"timeIndex": "7"
+		},
+		{
+			"course": "Multimedia Technology",
+			"lecturer": "Matjele",
+			"venue": "MM7",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Mathe",
+			"venue": "MM5",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Room 1",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+	],
+	"BSCBITY1S2(B)": [
+		{
+			"course": "Principles of Marketing",
+			"lecturer": "T.Makhaola",
+			"venue": "Hall 3",
+			"time": "Tuesday (14:30 - 16:30)",
+			"timeIndex": "7"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Mathe",
+			"venue": "MM1",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Ntho",
+			"venue": "Net Lab",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Calculus 1",
+			"lecturer": "Maseli",
+			"venue": "Room 1",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Business Accounting",
+			"lecturer": "Matebesi",
+			"venue": "Hall 2",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Room 1",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+		{
+			"course": "Imperical Programming",
+			"lecturer": "Morutwa",
+			"venue": "MM4",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "Calculus 1(TUT)",
+			"lecturer": "Mpotla",
+			"venue": "Room 1",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Introduction to Database (Tut )",
+			"lecturer": "Nkhatho",
+			"venue": "MM4",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+		{
+			"course": "Multimedia Technology",
+			"lecturer": "Matjele",
+			"venue": "MM7",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+	],
+	"BSCBITY2S2": [
+		{
+			"course": "Introduction to Information System",
+			"lecturer": "Sekopo",
+			"venue": "Room 1",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "E-Business Applications",
+			"lecturer": "Ebisoh",
+			"venue": "MM1",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Database System",
+			"lecturer": "Makheka",
+			"venue": "MM3",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "JAVA Programming I",
+			"lecturer": "Macheli",
+			"venue": "MM5",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "Probability & Statistics",
+			"lecturer": "Maseli",
+			"venue": "Net Lab",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+		{
+			"course": "Probability & Statistics (Tut)",
+			"lecturer": "Mathe",
+			"venue": "MM3",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "JAVA Programming I (Tutorial)",
+			"lecturer": "Makhaola",
+			"venue": "MM4",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+	],
+	"BSCBITY3S2": [
+		{
+			"course": "Business Planning",
+			"lecturer": "Molati",
+			"venue": "Hall 3",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Sys. Dev Methods & Tools",
+			"lecturer": "Ranyali",
+			"venue": "Room 1",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Information Technology Law",
+			"lecturer": "Mokhamo",
+			"venue": "MM2",
+			"time": "Thursday (14:30 - 16:30)",
+			"timeIndex": "15"
+		},
+		{
+			"course": "Computer Network",
+			"lecturer": "Tlali",
+			"venue": "Net Lab",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+		{
+			"course": "Human Computer Interaction",
+			"lecturer": "Moopisa",
+			"venue": "Room 1",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Managerial Accounting",
+			"lecturer": "Montsi",
+			"venue": "Room 5",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Computer Network (LAB)",
+			"lecturer": "Tlali",
+			"venue": "Net Lab",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+	],
+	"BSCBITY4S2": [
+		{
+			"course": "Knowledge Management",
+			"lecturer": "Mafura",
+			"venue": "Room 6",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Internet security",
+			"lecturer": "Borotho",
+			"venue": "MM3",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "Information Technology  Auditing",
+			"lecturer": "Mpotla",
+			"venue": "Room 1",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+	],
+	"BSCITY1S2(A)": [
+		{
+			"course": "Imperical Programming",
+			"lecturer": "Matjele",
+			"venue": "MM2",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "Calculus 1",
+			"lecturer": "Mpotla",
+			"venue": "Hall 6",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Maseli",
+			"venue": "MM5",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Calculus 1(TUT)",
+			"lecturer": "Mokhamo",
+			"venue": "Hall 6",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Introduction to Computer Design",
+			"lecturer": "Borotho",
+			"venue": "Workshop",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Introduction to Database (Tut )",
+			"lecturer": "Rantai",
+			"venue": "MM3",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Sekopo",
+			"venue": "MM3",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Mokete",
+			"venue": "Hall 6",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+	],
+	"BSCITY1S2(B)": [
+		{
+			"course": "Calculus 1",
+			"lecturer": "Mpotla",
+			"venue": "Hall 6",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "Imperical Programming",
+			"lecturer": "Matjele",
+			"venue": "MM2",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Calculus 1(TUT)",
+			"lecturer": "Mokhamo",
+			"venue": "Hall 6",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Introduction to Database (Tut )",
+			"lecturer": "Rantai",
+			"venue": "MM3",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+		{
+			"course": "Introduction to Computer Design",
+			"lecturer": "Borotho",
+			"venue": "Workshop",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Sekopo",
+			"venue": "MM3",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Mokete",
+			"venue": "Hall 6",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Maseli",
+			"venue": "MM2",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+	],
+	"BSCITY2S2(A)": [
+		{
+			"course": "Probability & Statistics",
+			"lecturer": "Rantai",
+			"venue": "Hall 6",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "JAVA Programming I",
+			"lecturer": "Mofolo",
+			"venue": "MM3",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "C++ Programming II (Tut)",
+			"lecturer": "Thokoana",
+			"venue": "MM5",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+		{
+			"course": "Probability & Statistics (Tut)",
+			"lecturer": "Serutla",
+			"venue": "Hall 6",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+		{
+			"course": "Database System",
+			"lecturer": "Makheka",
+			"venue": "MM5",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "JAVA Programming I",
+			"lecturer": "Macheli",
+			"venue": "MM5",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Multimedia Technology",
+			"lecturer": "Mojapela",
+			"venue": "MM10",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "Introduction to Information System",
+			"lecturer": "Sekopo",
+			"venue": "Hall 6",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "C++ Programming II",
+			"lecturer": "Morutwa",
+			"venue": "MM5",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+	],
+	"BSCITY2S2(B)": [
+		{
+			"course": "Database System",
+			"lecturer": "Makheka",
+			"venue": "MM5",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "C++ Programming II (Tut)",
+			"lecturer": "Thokoana",
+			"venue": "MM6",
+			"time": "Friday (12:30 - 14:30)",
+			"timeIndex": "18"
+		},
+		{
+			"course": "Probability & Statistics",
+			"lecturer": "Rantai",
+			"venue": "Hall 6",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "C++ Programming II",
+			"lecturer": "Morutwa",
+			"venue": "MM4",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+		{
+			"course": "Multimedia Technology",
+			"lecturer": "Mojapela",
+			"venue": "MM10",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "JAVA Programming I",
+			"lecturer": "Macheli",
+			"venue": "MM5",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Introduction to Information System",
+			"lecturer": "Sekopo",
+			"venue": "Hall 6",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "JAVA Programming I",
+			"lecturer": "Mofolo",
+			"venue": "MM3",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Probability & Statistics (Tut)",
+			"lecturer": "Serutla",
+			"venue": "Hall 6",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+	],
+	"BSCITY3S2(A)": [
+		{
+			"course": "Computer Network",
+			"lecturer": "Tlali",
+			"venue": "Room 1",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Interactive Multimedia",
+			"lecturer": "Nkhatho",
+			"venue": "MM4",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Computer Network (LAB)",
+			"lecturer": "Borotho",
+			"venue": "Net Lab",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+		{
+			"course": "Information Technology Law",
+			"lecturer": "Mokhamo",
+			"venue": "Room 1",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Human Computer Interaction",
+			"lecturer": "Sekopo",
+			"venue": "Hall 6",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Web Programming with JAVA",
+			"lecturer": "Mofolo",
+			"venue": "MM3",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Sys. Dev Methods & Tools",
+			"lecturer": "Ranyali",
+			"venue": "Room 1",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+	],
+	"BSCITY3S2(B)": [
+		{
+			"course": "Information Technology Law",
+			"lecturer": "Mokhamo",
+			"venue": "Room 1",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Web Programming with JAVA",
+			"lecturer": "Mofolo",
+			"venue": "MM3",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "Human Computer Interaction",
+			"lecturer": "Sekopo",
+			"venue": "Hall 6",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Sys. Dev Methods & Tools",
+			"lecturer": "Ranyali",
+			"venue": "Room 1",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "Interactive Multimedia",
+			"lecturer": "Nkhatho",
+			"venue": "MM4",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Computer Network",
+			"lecturer": "Tlali",
+			"venue": "Room 1",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Computer Network (LAB)",
+			"lecturer": "Borotho",
+			"venue": "Net Lab",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+	],
+	"BSCITY4S2": [
+		{
+			"course": "Knowledge Management",
+			"lecturer": "Mafura",
+			"venue": "Room 6",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Distributed Systems",
+			"lecturer": "Bhila",
+			"venue": "MM3",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Artificial Intelligence",
+			"lecturer": "Makheka",
+			"venue": "Workshop",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+	],
+	"BSCSMY1S2(A)": [
+		{
+			"course": "Calculus 1(TUT)",
+			"lecturer": "Serutla",
+			"venue": "MM1",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+		{
+			"course": "Introduction to Database (Tut )",
+			"lecturer": "Serutla",
+			"venue": "MM6",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Sekopo",
+			"venue": "Hall 6",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "Introduction to Digital Graphics",
+			"lecturer": "Khotle",
+			"venue": "MM9",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Calculus 1",
+			"lecturer": "Mpotla",
+			"venue": "Room 1",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Introduction to Digital Imaging",
+			"lecturer": "Mojapela",
+			"venue": "MM10",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Molapo",
+			"venue": "MM6",
+			"time": "Tuesday (14:30 - 16:30)",
+			"timeIndex": "7"
+		},
+		{
+			"course": "Introduction to Multimedia",
+			"lecturer": "Jegede",
+			"venue": "MM7",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Takalimane",
+			"venue": "MM4",
+			"time": "Friday (12:30 - 14:30)",
+			"timeIndex": "18"
+		},
+	],
+	"BSCSMY1S2(B)": [
+		{
+			"course": "Calculus 1",
+			"lecturer": "Mpotla",
+			"venue": "Room 1",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+		{
+			"course": "Introduction to Multimedia",
+			"lecturer": "Jegede",
+			"venue": "MM7",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Molapo",
+			"venue": "Net Lab",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Takalimane",
+			"venue": "MM7",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Introduction to Digital Imaging",
+			"lecturer": "Mojapela",
+			"venue": "MM10",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Introduction to Digital Graphics",
+			"lecturer": "Khotle",
+			"venue": "MM9",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Calculus 1(TUT)",
+			"lecturer": "Serutla",
+			"venue": "MM1",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Sekopo",
+			"venue": "Hall 6",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+	],
+	"BSCSMY2S2": [
+		{
+			"course": "JAVA Programming I",
+			"lecturer": "Makhaola",
+			"venue": "MM2",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "Probability & Statistics (Tut)",
+			"lecturer": "Rantai",
+			"venue": "MM6",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+		{
+			"course": "C++ Programming II",
+			"lecturer": "Takalimane",
+			"venue": "MM4",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "C++ Programming II (Tut)",
+			"lecturer": "Thokoana",
+			"venue": "MM6",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Mobile Device Programming",
+			"lecturer": "Nkhatho",
+			"venue": "MM4",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Software modelling and analysis",
+			"lecturer": "Makheka",
+			"venue": "MM2",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Probability & Statistics",
+			"lecturer": "Mathe",
+			"venue": "MM6",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Database System",
+			"lecturer": "Macheli",
+			"venue": "MM5",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "JAVA Programming I (Tut)",
+			"lecturer": "Morutwa",
+			"venue": "MM2",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+	],
+	"BSCSMY3S2": [
+		{
+			"course": "Digital Modelling & Animation",
+			"lecturer": "Jegede",
+			"venue": "MM7",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Concept of Modelling",
+			"lecturer": "Jegede",
+			"venue": "MM7",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "Software Design",
+			"lecturer": "Tlali",
+			"venue": "Workshop",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Interactive Multimedia",
+			"lecturer": "Nkhatho",
+			"venue": "MM4",
+			"time": "Tuesday (14:30 - 16:30)",
+			"timeIndex": "7"
+		},
+		{
+			"course": "Concept of Modelling (Tutorial)",
+			"lecturer": "Thokoana",
+			"venue": "MM7",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Information Technology Law",
+			"lecturer": "Mokhamo",
+			"venue": "Room 1",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+	],
+	"BSCSMY4S2": [
+		{
+			"course": "Virtual Reality",
+			"lecturer": "Jegede",
+			"venue": "MM7",
+			"time": "Friday (12:30 - 14:30)",
+			"timeIndex": "18"
+		},
+		{
+			"course": "ARTIFICIAL INTELLIGENCE",
+			"lecturer": "Matjele",
+			"venue": "MM2",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Software Testing & Reliability",
+			"lecturer": "Makheka",
+			"venue": "Workshop",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Virtual Reality (Tutorial)",
+			"lecturer": "Thokoana",
+			"venue": "MM7",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+	],
+	"CBITY1S2(A)": [
+		{
+			"course": "Introduction to Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Hall 6",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Technical Computer Support",
+			"lecturer": "Borotho",
+			"venue": "Workshop",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+		{
+			"course": "Basic Entrapreneurship",
+			"lecturer": "Maama",
+			"venue": "Hall 7",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Principles of Networking",
+			"lecturer": "Molapo",
+			"venue": "Hall 6",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+		{
+			"course": "Basic Mathematics",
+			"lecturer": "Mathe",
+			"venue": "Hall 6",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Business Intelligence",
+			"lecturer": "Serutla",
+			"venue": "MM1",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+	],
+	"CBITY1S2(B)": [
+		{
+			"course": "Basic Mathematics",
+			"lecturer": "Mathe",
+			"venue": "Hall 6",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Technical Computer Support",
+			"lecturer": "Borotho",
+			"venue": "Workshop",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Business Intelligence",
+			"lecturer": "Serutla",
+			"venue": "MM1",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Introduction to Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Hall 6",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Basic Entrapreneurship",
+			"lecturer": "Maama",
+			"venue": "Hall 7",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Principles of Networking",
+			"lecturer": "Molapo",
+			"venue": "Hall 6",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+	],
+	"CMKY1S2": [
+		{
+			"course": "Introduction to E-Commerce",
+			"lecturer": "Molapo",
+			"venue": "MM5",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+	],
+	"DBITY1S2(A)": [
+		{
+			"course": "Human Resource Mgt",
+			"lecturer": "Noko",
+			"venue": "Hall 7",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Ntho",
+			"venue": "Hall 6",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Imperical Programming",
+			"lecturer": "Hlabeli",
+			"venue": "MM1",
+			"time": "Monday (10:30 - 12:30)",
+			"timeIndex": "1"
+		},
+		{
+			"course": "Introduction to Database (Tut )",
+			"lecturer": "Mathe",
+			"venue": "MM6",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "Business Maths 2 Tutorial",
+			"lecturer": "Mokhamo",
+			"venue": "Hall 6",
+			"time": "Friday (14:30 - 16:30)",
+			"timeIndex": "19"
+		},
+		{
+			"course": "Business Mathematics II",
+			"lecturer": "Serutla",
+			"venue": "Hall 6",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Rantai",
+			"venue": "MM1",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Hall 6",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+	],
+	"DBITY1S2(B)": [
+		{
+			"course": "Human Resource Mgt",
+			"lecturer": "Noko",
+			"venue": "Hall 7",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Hall 6",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Rantai",
+			"venue": "MM1",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Business Maths 2 Tutorial",
+			"lecturer": "Mokhamo",
+			"venue": "Hall 6",
+			"time": "Friday (14:30 - 16:30)",
+			"timeIndex": "19"
+		},
+		{
+			"course": "Business Mathematics II",
+			"lecturer": "Serutla",
+			"venue": "Hall 6",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Imperical Programming",
+			"lecturer": "Hlabeli",
+			"venue": "MM1",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "Introduction to Database (Tut )",
+			"lecturer": "Mathe",
+			"venue": "MM2",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Ntho",
+			"venue": "Hall 6",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+	],
+	"DBITY2S2": [
+		{
+			"course": "E-Commerce Theories & Practices",
+			"lecturer": "Ntho",
+			"venue": "MM2",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Visual Basic.Net",
+			"lecturer": "Takalimane",
+			"venue": "MM4",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Data Communication & Networking (LAB)",
+			"lecturer": "Mokete",
+			"venue": "Net Lab",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Data Communication & Networking",
+			"lecturer": "Ntho",
+			"venue": "Net Lab",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "System Analysis & Design",
+			"lecturer": "Moopisa",
+			"venue": "MM2",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+		{
+			"course": "Business Intelligence",
+			"lecturer": "Makhaola",
+			"venue": "MM4",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+	],
+	"DBMY1S2": [
+		{
+			"course": "Business Information Systems",
+			"lecturer": "Mokhamo",
+			"venue": "Room 1",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+	],
+	"DITY1S2": [
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Hall 6",
+			"time": "Tuesday (14:30 - 16:30)",
+			"timeIndex": "7"
+		},
+		{
+			"course": "Principles of Accounting",
+			"lecturer": "Matebesi",
+			"venue": "Hall 2",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Maseli",
+			"venue": "MM2",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+		{
+			"course": "Introduction to Data Communication",
+			"lecturer": "Mokete",
+			"venue": "Net Lab",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "Introduction to Database (Tut )",
+			"lecturer": "Macheli",
+			"venue": "MM5",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+		{
+			"course": "Calculus 1",
+			"lecturer": "Mokhamo",
+			"venue": "MM7",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Calculus 1(TUT)",
+			"lecturer": "Maseli",
+			"venue": "Hall 6",
+			"time": "Thursday (14:30 - 16:30)",
+			"timeIndex": "15"
+		},
+		{
+			"course": "Imperical Programming",
+			"lecturer": "Morutwa",
+			"venue": "MM5",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Introduction to Computer Design",
+			"lecturer": "Borotho",
+			"venue": "Room 1",
+			"time": "Friday (12:30 - 14:30)",
+			"timeIndex": "18"
+		},
+	],
+	"DITY2S2": [
+		{
+			"course": "Interaction Design",
+			"lecturer": "Sekopo",
+			"venue": "Room 1",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "Data Communication & Networking (LAB)",
+			"lecturer": "Tlali",
+			"venue": "Net Lab",
+			"time": "Thursday (12:30 - 14:30)",
+			"timeIndex": "14"
+		},
+		{
+			"course": "Java Programming 2 (Tut)",
+			"lecturer": "Nkhatho",
+			"venue": "MM4",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Database Applications",
+			"lecturer": "Matjele",
+			"venue": "MM6",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+		{
+			"course": "Object Oriented Analysis & Design",
+			"lecturer": "Mokhachane",
+			"venue": "MM6",
+			"time": "Thursday (14:30 - 16:30)",
+			"timeIndex": "15"
+		},
+		{
+			"course": "Computer Network",
+			"lecturer": "Noko",
+			"venue": "Hall 7",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+		{
+			"course": "Data Communication & Networking",
+			"lecturer": "Mokete",
+			"venue": "Net Lab",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "JAVA Programming 2",
+			"lecturer": "Takalimane",
+			"venue": "MM4",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "System Analysis & Design",
+			"lecturer": "Ranyali",
+			"venue": "Hall 6",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+	],
+	"DJMY2S2": [
+		{
+			"course": "Major Project 2",
+			"lecturer": "Hlabeli",
+			"venue": "MP Campus",
+			"time": "Tuesday (10:30 - 12:30)",
+			"timeIndex": "5"
+		},
+		{
+			"course": "Web Journalism 1",
+			"lecturer": "Hlabeli",
+			"venue": "MM5",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+	],
+	"DMSEY1S2": [
+		{
+			"course": "Introduction to Multimedia",
+			"lecturer": "Thokoana",
+			"venue": "MM7",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "Introduction to Database",
+			"lecturer": "Maseli",
+			"venue": "MM2",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Principles of Software Engineering",
+			"lecturer": "Ebisoh",
+			"venue": "Hall 6",
+			"time": "Tuesday (14:30 - 16:30)",
+			"timeIndex": "7"
+		},
+		{
+			"course": "Calculus 1",
+			"lecturer": "Maseli",
+			"venue": "Hall 6",
+			"time": "Thursday (14:30 - 16:30)",
+			"timeIndex": "15"
+		},
+		{
+			"course": "Multimedia Technology",
+			"lecturer": "Khasu",
+			"venue": "MM10",
+			"time": "Thursday (10:30 - 12:30)",
+			"timeIndex": "13"
+		},
+		{
+			"course": "Calculus 1",
+			"lecturer": "Rantai",
+			"venue": "Workshop",
+			"time": "Thursday (08:30 - 10:30)",
+			"timeIndex": "12"
+		},
+		{
+			"course": "Multimedia Technology",
+			"lecturer": "Khotle",
+			"venue": "MM10",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Introduction to Database (Tut)",
+			"lecturer": "Mokete",
+			"venue": "MM4",
+			"time": "Wednesday (12:30 - 14:30)",
+			"timeIndex": "10"
+		},
+	],
+	"DMSEY2S2": [
+		{
+			"course": "3D Modelling (Tutorial)",
+			"lecturer": "Thokoana",
+			"venue": "MM7",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+		{
+			"course": "Interaction Design",
+			"lecturer": "Sekopo",
+			"venue": "Room 1",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+		{
+			"course": "System Analysis & Design",
+			"lecturer": "Ranyali",
+			"venue": "Hall 6",
+			"time": "Wednesday (14:30 - 16:30)",
+			"timeIndex": "11"
+		},
+		{
+			"course": "JAVA Programming 2",
+			"lecturer": "Takalimane",
+			"venue": "MM4",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Multimedia Technology",
+			"lecturer": "Mojapela",
+			"venue": "MM10",
+			"time": "Wednesday (08:30 - 10:30)",
+			"timeIndex": "8"
+		},
+		{
+			"course": "3D Modelling",
+			"lecturer": "Jegede",
+			"venue": "MM7",
+			"time": "Tuesday (08:30 - 10:30)",
+			"timeIndex": "4"
+		},
+		{
+			"course": "Java Programming 2 (Tut)",
+			"lecturer": "Bhila",
+			"venue": "MM1",
+			"time": "Monday (08:30 - 10:30)",
+			"timeIndex": "0"
+		},
+		{
+			"course": "Object Oriented Analysis & Design",
+			"lecturer": "Mokhachane",
+			"venue": "MM2",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+	],
+	"Group 1": [
+		{
+			"course": "Practical Internship",
+			"lecturer": "Mpotla",
+			"venue": "Sound Studio",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Major Project II",
+			"lecturer": "Bhila",
+			"venue": "Sound Studio",
+			"time": "Monday (14:30 - 16:30)",
+			"timeIndex": "3"
+		},
+	],
+	"Group 2": [
+		{
+			"course": "Practical Internship",
+			"lecturer": "Ranyali",
+			"venue": "MP Campus",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+	],
+	"Group 3": [
+		{
+			"course": "Major Project 2",
+			"lecturer": "Molapo",
+			"venue": "TV Studio",
+			"time": "Wednesday (10:30 - 12:30)",
+			"timeIndex": "9"
+		},
+	],
+	"Group 4": [
+		{
+			"course": "Practical Internship",
+			"lecturer": "Makheka",
+			"venue": "MP Campus",
+			"time": "Friday (08:30 - 10:30)",
+			"timeIndex": "16"
+		},
+		{
+			"course": "Major Project 2",
+			"lecturer": "Mpotla",
+			"venue": "Sound Studio",
+			"time": "Friday (10:30 - 12:30)",
+			"timeIndex": "17"
+		},
+	],
+	"Group 5": [
+		{
+			"course": "Major Project 2",
+			"lecturer": "Matjele",
+			"venue": "TV Studio",
+			"time": "Tuesday (12:30 - 14:30)",
+			"timeIndex": "6"
+		},
+	],
+	"Group 6": [
+		{
+			"course": "Major Project 2",
+			"lecturer": "Mofolo",
+			"venue": "MP Campus",
+			"time": "Friday (12:30 - 14:30)",
+			"timeIndex": "18"
+		},
+	],
+	"Group 7": [
+		{
+			"course": "Major Project 2",
+			"lecturer": "Tlali",
+			"venue": "MP Campus",
+			"time": "Friday (14:30 - 16:30)",
+			"timeIndex": "19"
+		},
+	],
+	"Group 8": [
+		{
+			"course": "Major Project 2",
+			"lecturer": "Mokhachane",
+			"venue": "TV Studio",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+	],
+	"Group 9": [
+		{
+			"course": "Major Project 2",
+			"lecturer": "Takalimane",
+			"venue": "Sound Studio",
+			"time": "Monday (12:30 - 14:30)",
+			"timeIndex": "2"
+		},
+	],
+}

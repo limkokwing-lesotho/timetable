@@ -7,3 +7,15 @@ export const classes = [
   { code: 'BSCIT', name: 'BSc in Information Technology' },
   { code: 'BSCBIT', name: 'BSc in Business Information Technology' },
 ];
+
+export interface Slot {
+  course: string;
+  lecturer: string;
+  venue: string;
+  timeIndex: number;
+  time: string;
+}
+
+export interface Timetable {
+  [classCode: string]: Slot[];
+}
