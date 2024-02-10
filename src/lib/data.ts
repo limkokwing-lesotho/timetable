@@ -1,12 +1,9 @@
-import { promises as fs } from 'fs';
 import { Timetable } from './modal';
+import axios from 'axios';
 
 export async function getData() {
-  const file = await fs.readFile(
-    process.cwd() + '/src/lib/students.json',
-    'utf8'
-  );
-  return cleanJson(file) as Timetable;
+  const res = await axios.get(process.env.FILE_URL || '');
+  return cleanJson(res.data) as Timetable;
 }
 
 function cleanJson(input: string) {
