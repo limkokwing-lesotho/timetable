@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Timetable } from '../../lib/modal';
 import { getData } from '@/lib/data';
+import Link from 'next/link';
 
 type Params = {
   params: {
@@ -16,7 +17,9 @@ export default async function page({ params }: Params) {
   return (
     <div className='flex flex-col items-center'>
       {classes.map((it) => (
-        <div key={it}>{it}</div>
+        <Link href={`/${program}/timetables/${it}`} key={it}>
+          {it}
+        </Link>
       ))}
     </div>
   );
