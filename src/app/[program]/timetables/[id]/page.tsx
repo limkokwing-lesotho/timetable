@@ -23,7 +23,7 @@ export default async function page({ params: { id } }: Props) {
   return (
     <div className='mx-auto sm:w-1/2'>
       <h1 className='text-xl my-3'>{id}</h1>
-      <table className='border-collapse border border-slate-300 text-xs'>
+      <table className='border-collapse border border-slate-300 text-xs sm:text-sm'>
         <thead>
           <tr>
             <th className='border border-slate-300'></th>
