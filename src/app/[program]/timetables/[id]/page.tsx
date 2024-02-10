@@ -25,7 +25,7 @@ export default async function page({ params: { id } }: Props) {
     <div className='mx-auto lg:w-1/2 overflow-x-auto'>
       <h1 className='text-xl my-3 text-center'>{id}</h1>
       <BackButton />
-      <table className='border-collapse border border-slate-300 text-xs sm:text-sm '>
+      <table className='border-collapse border border-slate-300 text-xs sm:text-sm mt-2'>
         <thead>
           <tr>
             <th className='border border-slate-300'></th>
