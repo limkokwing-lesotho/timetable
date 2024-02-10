@@ -1,3 +1,4 @@
+import BackButton from '@/components/BackButton';
 import { getData } from '@/lib/data';
 import { Slot, Timetable } from '@/lib/modal';
 import { notFound } from 'next/navigation';
@@ -21,9 +22,10 @@ export default async function page({ params: { id } }: Props) {
   );
 
   return (
-    <div className='mx-auto sm:w-1/2'>
-      <h1 className='text-xl my-3'>{id}</h1>
-      <table className='border-collapse border border-slate-300 text-xs sm:text-sm'>
+    <div className='mx-auto lg:w-1/2 overflow-x-auto'>
+      <h1 className='text-xl my-3 text-center'>{id}</h1>
+      <BackButton />
+      <table className='border-collapse border border-slate-300 text-xs sm:text-sm '>
         <thead>
           <tr>
             <th className='border border-slate-300'></th>
@@ -38,7 +40,7 @@ export default async function page({ params: { id } }: Props) {
             <tr key={i}>
               <td className='border border-slate-300 p-2'>{days[i]}</td>
               {it.map((slot, j) => (
-                <td key={j} className='border border-slate-300'>
+                <td key={j} className='border border-slate-300 min-w-32'>
                   {slot}
                 </td>
               ))}
