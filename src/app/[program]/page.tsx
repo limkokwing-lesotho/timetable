@@ -15,9 +15,13 @@ export default async function page({ params }: Params) {
   const classes = Object.keys(data).filter((it) => it.startsWith(program));
 
   return (
-    <div className='flex flex-col items-center'>
+    <div className='space-y-3'>
       {classes.map((it) => (
-        <Link href={`/${program}/timetables/${it}`} key={it}>
+        <Link
+          href={`/${program}/timetables/${it}`}
+          key={it}
+          className='text-center block'
+        >
           {it}
         </Link>
       ))}
