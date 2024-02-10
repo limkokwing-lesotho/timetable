@@ -1,4 +1,4 @@
-import { classes } from './modal';
+import { classes } from '../lib/modal';
 import Link from 'next/link';
 
 export default function Home() {

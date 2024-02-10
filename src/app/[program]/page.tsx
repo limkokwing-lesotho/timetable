@@ -1,6 +1,7 @@
 import React from 'react';
-import { promises as fs } from 'fs';
-import { Timetable } from '../modal';
+
+import { Timetable } from '../../lib/modal';
+import { getData } from '@/lib/data';
 
 type Params = {
   params: {
@@ -9,13 +10,14 @@ type Params = {
 };
 export default async function page({ params }: Params) {
   const { program } = params;
-  const file = await fs.readFile(
-    process.cwd() + '/src/data/students.json',
-    'utf8'
+  const data = await getData();
+  const classes = Object.keys(data).filter((it) => it.startsWith(program));
+
+  return (
+    <div className='flex flex-col items-center'>
+      {classes.map((it) => (
+        <div key={it}>{it}</div>
+      ))}
+    </div>
   );
-  const data = JSON.parse(file);
-
-  const keys = Object.keys(data);
-
-  return <div>{keys.at(0)}</div>;
 }
