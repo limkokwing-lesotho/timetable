@@ -21,38 +21,45 @@ export default async function page({ params: { id } }: Props) {
   );
 
   return (
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th>08:30 - 10:30</th>
-          <th>10:30 - 12:30</th>
-          <th>12:30 - 14:30</th>
-          <th>14:30 - 16:30</th>
-        </tr>
-      </thead>
-      <tbody>
-        {data.map((it, i) => (
-          <tr key={i}>
-            <td>{days[i]}</td>
-            {it.map((slot, j) => (
-              <td key={j}>{slot}</td>
-            ))}
+    <div className='mx-auto sm:w-1/2'>
+      <h1 className='text-xl my-3'>{id}</h1>
+      <table className='border-collapse border border-slate-300 text-xs'>
+        <thead>
+          <tr>
+            <th className='border border-slate-300'></th>
+            <th className='border border-slate-300'>08:30 - 10:30</th>
+            <th className='border border-slate-300'>10:30 - 12:30</th>
+            <th className='border border-slate-300'>12:30 - 14:30</th>
+            <th className='border border-slate-300'>14:30 - 16:30</th>
           </tr>
-        ))}
-      </tbody>
-    </table>
+        </thead>
+        <tbody>
+          {data.map((it, i) => (
+            <tr key={i}>
+              <td className='border border-slate-300 p-2'>{days[i]}</td>
+              {it.map((slot, j) => (
+                <td key={j} className='border border-slate-300'>
+                  {slot}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
   );
 }
 
 function getSlot(slots: Slot[], index: number) {
   const slot = slots.findLast((it) => Number(it.timeIndex) === index);
-  if (!slot) return <>Empty</>;
+  if (!slot) return <></>;
   return (
-    <div>
-      <div>{slot.course}</div>
-      {/* <div>{slot.lecturer}</div>
-      <div>{slot.venue}</div> */}
+    <div className='p-1 '>
+      <div className='text-center'>{slot.course}</div>
+      <div className='flex justify-between mt-2'>
+        <span>{slot.venue}</span>
+        <span>{slot.lecturer}</span>
+      </div>
     </div>
   );
 }
