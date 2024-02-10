@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Inter } from 'next/font/google';
 import './globals.css';
+import ThemeProvider from './providers';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -19,13 +20,20 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body className={inter.className}>
-        <main className='mt-10 text-white px-2'>
-          <Link href='/' className='flex justify-center'>
-            <Image alt='Logo' src='/logo.png' width={280} height={125} />
-          </Link>
-          <div className='mt-10' />
-          {children}
-        </main>
+        <ThemeProvider
+          attribute='class'
+          defaultTheme='dark'
+          enableSystem
+          disableTransitionOnChange
+        >
+          <main className='mt-10 px-2'>
+            <Link href='/' className='flex justify-center'>
+              <Image alt='Logo' src='/logo.png' width={280} height={125} />
+            </Link>
+            <div className='mt-10' />
+            {children}
+          </main>
+        </ThemeProvider>
       </body>
     </html>
   );
