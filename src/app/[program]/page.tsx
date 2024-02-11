@@ -3,6 +3,7 @@ import React from 'react';
 import { Timetable } from '../../lib/modal';
 import { getData } from '@/lib/data';
 import Link from 'next/link';
+import { Button } from '@/components/ui/button';
 
 type Params = {
   params: {
@@ -15,15 +16,22 @@ export default async function page({ params }: Params) {
   const classes = Object.keys(data).filter((it) => it.startsWith(program));
 
   return (
-    <div className='space-y-3'>
+    <div className='flex flex-col items-stretch sm:items-center gap-3'>
       {classes.map((it) => (
-        <Link
-          href={`/${program}/timetables/${it}`}
+        <Button
           key={it}
-          className='text-center block'
+          asChild
+          className='py-8 sm:min-w-[30vw]'
+          variant={'outline'}
         >
-          {it}
-        </Link>
+          <Link
+            href={`/${program}/timetables/${it}`}
+            key={it}
+            className='text-center block'
+          >
+            {it}
+          </Link>
+        </Button>
       ))}
     </div>
   );
