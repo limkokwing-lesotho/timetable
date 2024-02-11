@@ -30,7 +30,7 @@ export default function RootLayout({
             <Link href='/' className='flex justify-center'>
               <Image
                 alt='Logo'
-                className='w-52 sm:w-64'
+                className='w-64'
                 src='/logo.png'
                 width={280}
                 height={125}
