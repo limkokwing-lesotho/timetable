@@ -1,9 +1,11 @@
-import { Timetable } from './modal';
-import axios from 'axios';
-
 export async function getData() {
-  const res = await axios.get(process.env.FILE_URL || '');
-  return cleanJson(res.data) as Timetable;
+  const res = await fetch(process.env.FILE_URL || '', {
+    next: {
+      revalidate: 60 * 60,
+    },
+  });
+  const data = await res.text();
+  return cleanJson(data);
 }
 
 function cleanJson(input: string) {
