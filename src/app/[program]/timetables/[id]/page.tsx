@@ -25,18 +25,18 @@ export default async function page({ params: { id } }: Props) {
   const slots = (await getData())[id];
   if (!slots) return notFound();
 
-  const _data = Array.from({ length: 4 * 5 }).map((_, i) => (
+  const stub = Array.from({ length: 4 * 5 }).map((_, i) => (
     <Slot slots={slots} index={i} key={i} />
   ));
   const data = Array.from({ length: 5 }).map((_, i) =>
-    _data.slice(i * 4, (i + 1) * 4)
+    stub.slice(i * 4, (i + 1) * 4)
   );
 
   return (
     <div className='mx-auto lg:w-1/2 overflow-x-auto pb-10'>
       <h1 className='text-xl my-3 text-center'>{id}</h1>
       <BackButton />
-      <Table className='text-sm sm:text-xs'>
+      <Table className='text-xs sm:text-sm'>
         <TableCaption>Timetable subject to change</TableCaption>
         <TableHeader>
           <TableRow>

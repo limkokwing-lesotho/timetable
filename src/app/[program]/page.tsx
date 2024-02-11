@@ -19,7 +19,7 @@ export default async function page({ params }: Params) {
 
   return (
     <>
-      <h1 className='text-lg mt-5 mb-10 text-center text-zinc-200'>
+      <h1 className='text-lg mt-5 mb-3 text-center text-zinc-200'>
         {programName}
       </h1>
       <div className='flex flex-col items-stretch sm:items-center gap-3'>
