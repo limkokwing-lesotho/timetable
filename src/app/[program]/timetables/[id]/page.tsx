@@ -25,7 +25,9 @@ export default async function page({ params: { id } }: Props) {
   const slots = (await getData())[id];
   if (!slots) return notFound();
 
-  const _data = Array.from({ length: 4 * 5 }).map((_, i) => getSlot(slots, i));
+  const _data = Array.from({ length: 4 * 5 }).map((_, i) => (
+    <Slot slots={slots} index={i} key={i} />
+  ));
   const data = Array.from({ length: 5 }).map((_, i) =>
     _data.slice(i * 4, (i + 1) * 4)
   );
@@ -58,7 +60,7 @@ export default async function page({ params: { id } }: Props) {
   );
 }
 
-function getSlot(slots: Slot[], index: number) {
+function Slot({ index, slots }: { index: number; slots: Slot[] }) {
   const slot = slots.findLast((it) => Number(it.timeIndex) === index);
   if (!slot) return <TableCell></TableCell>;
   return (
