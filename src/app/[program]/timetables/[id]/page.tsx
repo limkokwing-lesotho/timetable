@@ -36,7 +36,7 @@ export default async function page({ params: { id } }: Props) {
     <div className='mx-auto lg:w-1/2 pb-10'>
       <h1 className='my-3 text-center text-zinc-400'>{id}</h1>
       <BackButton />
-      <div className='flex border border-zinc-500 border-r-0'>
+      <div className='flex border border-zinc-500 border-r-0 mt-2'>
         <div>
           <div className='h-12 border-r border-zinc-500' />
           {days.map((it) => (
