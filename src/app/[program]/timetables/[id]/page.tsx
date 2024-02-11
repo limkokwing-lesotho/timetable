@@ -34,10 +34,9 @@ export default async function page({ params: { id } }: Props) {
 
   return (
     <div className='mx-auto lg:w-1/2 overflow-x-auto pb-10'>
-      <h1 className='text-xl my-3 text-center'>{id}</h1>
+      <h1 className='my-3 text-center text-zinc-400'>{id}</h1>
       <BackButton />
       <Table className='text-xs sm:text-sm'>
-        <TableCaption>Timetable subject to change</TableCaption>
         <TableHeader>
           <TableRow>
             <TableHead className='min-w-[90px]'></TableHead>

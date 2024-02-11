@@ -28,7 +28,13 @@ export default function RootLayout({
         >
           <main className='mt-5 px-2 pb-5'>
             <Link href='/' className='flex justify-center'>
-              <Image alt='Logo' src='/logo.png' width={280} height={125} />
+              <Image
+                alt='Logo'
+                className='w-52 sm:w-64'
+                src='/logo.png'
+                width={280}
+                height={125}
+              />
             </Link>
             <div className='mt-5' />
             {children}
