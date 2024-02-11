@@ -40,11 +40,11 @@ export default async function page({ params: { id } }: Props) {
         <TableCaption>Timetable subject to change</TableCaption>
         <TableHeader>
           <TableRow>
-            <TableHead className='w-[100px]'></TableHead>
-            <TableHead className='w-[100px]'>08:30 - 10:30</TableHead>
-            <TableHead className='w-[100px]'>10:30 - 12:30</TableHead>
-            <TableHead className='w-[100px]'>12:30 - 14:30</TableHead>
-            <TableHead className='w-[100px]'>14:30 - 16:30</TableHead>
+            <TableHead className='min-w-[90px]'></TableHead>
+            <TableHead className='min-w-[130px]'>08:30 - 10:30</TableHead>
+            <TableHead className='min-w-[130px]'>10:30 - 12:30</TableHead>
+            <TableHead className='min-w-[130px]'>12:30 - 14:30</TableHead>
+            <TableHead className='min-w-[130px]'>14:30 - 16:30</TableHead>
           </TableRow>
         </TableHeader>
         <TableBody>
@@ -64,7 +64,7 @@ function Slot({ index, slots }: { index: number; slots: Slot[] }) {
   const slot = slots.findLast((it) => Number(it.timeIndex) === index);
   if (!slot) return <TableCell></TableCell>;
   return (
-    <TableCell className='bg-muted/60'>
+    <TableCell className='bg-muted/80'>
       <div className='text-center'>{slot.course}</div>
       <div className='flex justify-between mt-2'>
         <span>{slot.venue}</span>
