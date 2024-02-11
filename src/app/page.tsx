@@ -11,7 +11,7 @@ export default function Home() {
           <Button
             key={it.code}
             asChild
-            className='sm:min-w-[30vw] group'
+            className='sm:min-w-[35vw] group'
             variant={'outline'}
           >
             <Link
@@ -21,7 +21,7 @@ export default function Home() {
             >
               <div className='space-y-1'>
                 <h3 className='text-xs sm:text-base'>{it.name}</h3>
-                <p className='text-base text-zinc-400'>{it.code}</p>
+                <p className='text-sm text-zinc-400'>{it.code}</p>
               </div>
               <IconArrowRight
                 className='group-hover:translate-x-1 ease-in-out transition-transform duration-300 transform'
