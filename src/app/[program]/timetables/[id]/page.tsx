@@ -3,6 +3,15 @@ import { getData } from '@/lib/data';
 import { Slot, Timetable } from '@/lib/modal';
 import { notFound } from 'next/navigation';
 import React from 'react';
+import {
+  Table,
+  TableBody,
+  TableCaption,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from '@/components/ui/table';
 
 type Props = {
   params: {
@@ -22,46 +31,43 @@ export default async function page({ params: { id } }: Props) {
   );
 
   return (
-    <div className='mx-auto lg:w-1/2 overflow-x-auto'>
+    <div className='mx-auto lg:w-1/2 overflow-x-auto pb-10'>
       <h1 className='text-xl my-3 text-center'>{id}</h1>
       <BackButton />
-      <table className='border-collapse border border-slate-300 text-xs sm:text-sm mt-2'>
-        <thead>
-          <tr>
-            <th className='border border-slate-300'></th>
-            <th className='border border-slate-300'>08:30 - 10:30</th>
-            <th className='border border-slate-300'>10:30 - 12:30</th>
-            <th className='border border-slate-300'>12:30 - 14:30</th>
-            <th className='border border-slate-300'>14:30 - 16:30</th>
-          </tr>
-        </thead>
-        <tbody>
+      <Table>
+        <TableCaption>Timetable subject to change</TableCaption>
+        <TableHeader>
+          <TableRow>
+            <TableHead className='w-[100px]'></TableHead>
+            <TableHead className='w-[100px]'>08:30 - 10:30</TableHead>
+            <TableHead className='w-[100px]'>10:30 - 12:30</TableHead>
+            <TableHead className='w-[100px]'>12:30 - 14:30</TableHead>
+            <TableHead className='w-[100px]'>14:30 - 16:30</TableHead>
+          </TableRow>
+        </TableHeader>
+        <TableBody>
           {data.map((it, i) => (
-            <tr key={i}>
-              <td className='border border-slate-300 p-2'>{days[i]}</td>
-              {it.map((slot, j) => (
-                <td key={j} className='border border-slate-300 min-w-32'>
-                  {slot}
-                </td>
-              ))}
-            </tr>
+            <TableRow key={i}>
+              <TableCell className='p-2'>{days[i]}</TableCell>
+              {it.map((slot, j) => slot)}
+            </TableRow>
           ))}
-        </tbody>
-      </table>
+        </TableBody>
+      </Table>
     </div>
   );
 }
 
 function getSlot(slots: Slot[], index: number) {
   const slot = slots.findLast((it) => Number(it.timeIndex) === index);
-  if (!slot) return <></>;
+  if (!slot) return <TableCell></TableCell>;
   return (
-    <div className='p-1 '>
+    <TableCell className='bg-muted'>
       <div className='text-center'>{slot.course}</div>
       <div className='flex justify-between mt-2'>
         <span>{slot.venue}</span>
         <span>{slot.lecturer}</span>
       </div>
-    </div>
+    </TableCell>
   );
 }
