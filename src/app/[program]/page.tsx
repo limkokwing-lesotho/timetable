@@ -19,7 +19,11 @@ export default async function page({ params }: Params) {
 
   return (
     <>
-      <h1 className='mb-3 text-center text-zinc-400'>{programName}</h1>
+      <header className='my-8'>
+        <h1 className='text-sm text-zinc-400 text-center mt-2'>
+          {programName}
+        </h1>
+      </header>
       <div className='flex flex-col items-stretch sm:items-center gap-3'>
         {classCodes.map((it) => (
           <Button

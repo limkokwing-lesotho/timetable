@@ -17,11 +17,11 @@ export default function Home() {
             <Link
               key={it.code}
               href={`/${it.code}`}
-              className='flex h-24 justify-between'
+              className='flex h-20 sm:h-24 justify-between'
             >
               <div className='space-y-1'>
-                <h3>{it.name}</h3>
-                <p className='text-zinc-400'>{it.code}</p>
+                <h3 className='text-xs sm:text-base'>{it.name}</h3>
+                <p className='text-base text-zinc-400'>{it.code}</p>
               </div>
               <IconArrowRight
                 className='group-hover:translate-x-1 ease-in-out transition-transform duration-300 transform'
