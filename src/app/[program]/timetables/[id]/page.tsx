@@ -36,7 +36,7 @@ export default async function page({ params: { id } }: Props) {
     <div className='mx-auto lg:w-1/2 overflow-x-auto pb-10'>
       <h1 className='text-xl my-3 text-center'>{id}</h1>
       <BackButton />
-      <Table>
+      <Table className='text-sm sm:text-xs'>
         <TableCaption>Timetable subject to change</TableCaption>
         <TableHeader>
           <TableRow>
@@ -64,7 +64,7 @@ function Slot({ index, slots }: { index: number; slots: Slot[] }) {
   const slot = slots.findLast((it) => Number(it.timeIndex) === index);
   if (!slot) return <TableCell></TableCell>;
   return (
-    <TableCell className='bg-muted'>
+    <TableCell className='bg-muted/60'>
       <div className='text-center'>{slot.course}</div>
       <div className='flex justify-between mt-2'>
         <span>{slot.venue}</span>
