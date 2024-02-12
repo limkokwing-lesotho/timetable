@@ -1,7 +1,7 @@
 export async function getData() {
   const res = await fetch(process.env.FILE_URL || '', {
     next: {
-      revalidate: 60 * 60,
+      revalidate: 60 * 5,
     },
   });
   const data = await res.text();
